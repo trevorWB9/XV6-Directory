@@ -1,0 +1,259 @@
+    1  which gcc
+    2  which objdump
+    3  which qemu
+    4  which git
+    5  sudo apt-get update 
+    6  sud apt-get install git
+    7  sudo apt-get install git
+    8  sudo apt install qemu-system-x86
+    9  git clone https://github.com/uva-reiss-cs4414/xv6.git
+   10  cd xv6/
+   11  ls
+   12  make qemu
+   13  git clone https://github.com/mit-pdos/xv6-public.git
+   14  ls
+   15  cd xv6-public/
+   16  make qemu
+   17  make qemu-nox
+   18  ps -aucx
+   19  top
+   20  cd xv6
+   21  ls *.asm
+   22  less kill.asm
+   23  cd ..
+   24  ls
+   25  cd xv6-public/
+   26  ls
+   27  less kill.asm
+   28  cd ..
+   29  cd 
+   30  sudo apt install '/mnt/hgfs/Downloads/code_1.74.3-1673284829_amd64.deb' 
+   31  ls
+   32  rm -rf xv6-public/
+   33  cd xv6/
+   34  make clean
+   35  cd
+   36  sudo vmware-toolbox-cmd disk shrink /
+   37  cd
+   38  ls
+   39  sudo vmware-toolbox-cmd disk shrink /
+   40  cd
+   41  ls
+   42  which gdb
+   43  sudo apt install gdb
+   44  cd xv6/
+   45  make qemu-nox-gdb
+   46  make qemu-nox-gdb
+   47  cd
+   48  ls
+   49  cd xv6/
+   50  gdb kernel
+   51  echo 'add-auto-load-safe-path /home/osboxes/xv6/.gdbinit' >> /home/osboxes/.gdbinit
+   52  gdb kernel
+   53  ps
+   54  ps -aucx
+   55  ps -aucx | grep qemu
+   56  kill -9 4487
+   57  ps -aucx | grep qemu
+   58  kill -9 4621
+   59  gdb kernel
+   60  cd xv6/
+   61  make qemu
+   62  make qemu-gdb
+   63  make clean
+   64  exit
+   65  sudo vmware-toolbox-cmd disk shrink /
+   66  cd; pwd; Is -la
+   67  cd; pwd;LIs -la
+   68  cd; pwd; Is -la
+   69  cd; pwd; Is -la
+   70  cd; pwd; ls -la
+   71  cd~
+   72  cd ~
+   73  cd ~
+   74  cd
+   75  cd ~ pwd; ls -la
+   76  cd; pwd; ls -la
+   77  clear
+   78  cd ~
+   79  cd~
+   80  cd 
+   81  cd
+   82  cd ~
+   83  cd~
+   84  clear
+   85  man man
+   86  whoami
+   87  which whoami
+   88  which wc
+   89  which hostname
+   90  which man
+   91  which which
+   92  echo $0
+   93  sh
+   94  echo $PATH
+   95  man wc
+   96  man wc
+   97  man $PATH
+   98  man -k editor
+   99  apropos editor
+  100  man <
+  101  man '<'
+  102  man <'
+  103  cat /usr/share/dict/words | grep -e 'aa.*' | sort -u | wc -l
+  104  man <'
+  105  cat /usr/share/dict/words | grep -e 'aa.*' | sort -u | wc -l
+  106  clear
+  107  cat /usr/share/dict/words | grep -e 'aa.*' | sort -u | wc -l
+  108  man man
+  109  wc /usr/share/dict/words > lab01.txt
+  110  wc /usr/share/dict/words >lab01.txt
+  111  wc /usr/share/dict/words >>lab01.txt
+  112  cat lab01.txt
+  113  cat lab01.txt | md5sum
+  114  whoami | md5sum
+  115   /usr/bin/env /bin/sh /tmp/Microsoft-MIEngine-Cmd-oansgabg.zgw 
+  116   /usr/bin/env /bin/sh /tmp/Microsoft-MIEngine-Cmd-l3wjdds3.xm1 
+  117  ./countUD a.txt
+  118  ls ./
+  119  cd 
+  120  ./countUD a.txt
+  121  cd ./CPS356
+  122  ./countUD a.txt
+  123  ./countUD a.txt
+  124  ./countUD a.txt
+  125  ./countUD a.txt
+  126  ./countUD a.txt
+  127  ./countUD a.txt
+  128  ./countUD a.txt
+  129  ./countUD a.txt
+  130  ./countUD a.txt
+  131  ./countUD a.txt
+  132  ./countUD a.txt
+  133  ./countUD a.txt
+  134  ./countUD a.txt
+  135  ./countUD a.txt
+  136  ./countUD a.txt
+  137  ./mycat a.txt
+  138  clear
+  139  ./countUD a.txt
+  140   /usr/bin/env /bin/sh /tmp/Microsoft-MIEngine-Cmd-g00whmix.ad0 
+  141  ./countUD a.txt
+  142  ./countUD a.txt
+  143   /usr/bin/env /bin/sh /tmp/Microsoft-MIEngine-Cmd-t0vfqqr4.3wz 
+  144  ./countUD a.txt
+  145   /usr/bin/env /bin/sh /tmp/Microsoft-MIEngine-Cmd-nujgv52p.tky 
+  146  ./countUD a.txt
+  147   /usr/bin/env /bin/sh /tmp/Microsoft-MIEngine-Cmd-jqmm2xd3.30u 
+  148  ./countUD a.txt
+  149   /usr/bin/env /bin/sh /tmp/Microsoft-MIEngine-Cmd-aejeqhla.ocl 
+  150  ./countUD a.txt
+  151   /usr/bin/env /bin/sh /tmp/Microsoft-MIEngine-Cmd-31ergs4k.g3k 
+  152  ./countUD a.txt
+  153   /usr/bin/env /bin/sh /tmp/Microsoft-MIEngine-Cmd-gig0w2be.3jm 
+  154  ./countUD a.txt
+  155   /usr/bin/env /bin/sh /tmp/Microsoft-MIEngine-Cmd-sezkwg54.d4j 
+  156  ./countUD a.txt
+  157   /usr/bin/env /bin/sh /tmp/Microsoft-MIEngine-Cmd-gwxxciuh.tic 
+  158  ./countUD a.txt
+  159   /usr/bin/env /bin/sh /tmp/Microsoft-MIEngine-Cmd-pscabctf.pnj 
+  160  ./countUD a.txt
+  161   /usr/bin/env /bin/sh /tmp/Microsoft-MIEngine-Cmd-ujn4hkbe.els 
+  162   /usr/bin/env /bin/sh /tmp/Microsoft-MIEngine-Cmd-5ixamsxx.vbu 
+  163  ./countUD a.txt
+  164   /usr/bin/env /bin/sh /tmp/Microsoft-MIEngine-Cmd-sgya5okk.nzl 
+  165  ./countUD a.txt
+  166   /usr/bin/env /bin/sh /tmp/Microsoft-MIEngine-Cmd-q3r4hs22.1ab 
+  167  ./countUD a.txt
+  168   /usr/bin/env /bin/sh /tmp/Microsoft-MIEngine-Cmd-bxj00ns4.tiq 
+  169  ./countUD a.txt
+  170  ./countUD a.txt
+  171  ./countUD a.txt
+  172  ./countUD a.txt
+  173   /usr/bin/env /bin/sh /tmp/Microsoft-MIEngine-Cmd-rnxcjjdd.aqf 
+  174   /usr/bin/env /bin/sh /tmp/Microsoft-MIEngine-Cmd-yar40no5.oi2 
+  175  ./countUD a.txt
+  176   /usr/bin/env /bin/sh /tmp/Microsoft-MIEngine-Cmd-u5mrfebj.dkv 
+  177  ./countUD a.txt
+  178  ./countUD b.txt
+  179  ./countUD a.txt
+  180   /usr/bin/env /bin/sh /tmp/Microsoft-MIEngine-Cmd-fya121g0.k5e 
+  181  ./countUD a.txt
+  182  ./countUD b.txt
+  183  ./countUD a.txt b.txt
+  184   /usr/bin/env /bin/sh /tmp/Microsoft-MIEngine-Cmd-m2ubu1mn.pkt 
+  185  ./countUD u.txt
+  186   /usr/bin/env /bin/sh /tmp/Microsoft-MIEngine-Cmd-rpysey44.jay 
+  187  ./countUD u.txt
+  188  ./countUD U.txt
+  189  ./countUD D.txt
+  190  ./countUD d.txt
+  191  ./countUD a.txt 
+  192   /usr/bin/env /bin/sh /tmp/Microsoft-MIEngine-Cmd-3aky2jqn.sim 
+  193  ./countUD a.txt
+  194   /usr/bin/env /bin/sh /tmp/Microsoft-MIEngine-Cmd-4h5qkqzf.idd 
+  195  ./countUD a.txt
+  196  ./countUD a.xt b.txt
+  197   /usr/bin/env /bin/sh /tmp/Microsoft-MIEngine-Cmd-xvgydhx0.vwy 
+  198  ./countUD a.txt b.txt
+  199  ./countUD/usr/shar/*/*
+  200  ./countUD/usr/share/*/*
+  201  ./countUD a.txt
+  202  ./countUD a.txt
+  203  countUD a.txt
+  204  ./countUD.c a.txt
+  205  ./countUD a.txt
+  206  ./countUD a.txt >Trevor.txt
+  207  cd trevor
+  208  cd cps356
+  209  cd CPS356
+  210  ./countUD a.txt > Trevor.txt
+  211  ./countUD a.txt
+  212  clear
+  213  ./countUD a.txt
+  214  ./countUD a.txt < Trevor.txt
+  215  ./countUD a.txt > Trevor.txt
+  216  ./countUD a.txt
+  217  ./countUD a.txt > T.txt
+  218  ls
+  219  source ~/.bashrc
+  220  ls
+  221  ls ~a
+  222  ls ~h
+  223  ls ~
+  224  clear
+  225  source ~/.bashrc
+  226  source~/bashrc
+  227  source ~/.bashrc
+  228  cd xv6
+  229  make
+  230  make qemu
+  231  cd xv6
+  232  make
+  233  make qemu
+  234  make
+  235  cd xv6
+  236  make
+  237  make qemu
+  238  cd xv6
+  239  make
+  240  make
+  241  make
+  242  make
+  243  make
+  244  make
+  245  clear
+  246  make
+  247  make
+  248  clear
+  249  make
+  250  make
+  251  make
+  252  make
+  253  make
+  254  make
+  255  make
+  256  make
+  257  make qemu
+  258  histore > trevor.txt
+  259  history > trevor.txt
