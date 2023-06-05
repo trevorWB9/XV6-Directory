@@ -1,0 +1,5 @@
+To run each test: 
+1. do make qemu
+2. Type testdZero 
+3. Type testdNull
+4. Type testdTicks
